@@ -40,12 +40,15 @@ It detects spam/bot accounts, identifies users who don't follow you back, and al
 
 ---
 
-## Requirements
+### Requirements
 
-- Python **3.10+**
-- GitHub Personal Access Token (Classic) with the following scopes:
-  - `user` (includes `user:follow`, `user:block`)
-
+* **Python 3.10+**
+* **GitHub Personal Access Token (Classic):**
+  1. Go to your GitHub **Settings** > **Developer settings** > **Personal access tokens** > **Tokens (classic)**.
+  2. Click **Generate new token (classic)**.
+  3. Give it a name (e.g., "Specter").
+  4. Under **Select scopes**, check the entire **`user`** category (this automatically selects `read:user`, `user:email`, `user:follow`) and the **`repo`** category.
+  5. Click **Generate token** and copy the code immediately (you won't be able to see it again!).
 ---
 
 ## Installation
