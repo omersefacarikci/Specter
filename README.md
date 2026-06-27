@@ -20,22 +20,22 @@ It detects spam/bot accounts, identifies users who don't follow you back, and al
 
 ## Features
 
-- 🔎 **Bot Detection**  
+- **Bot Detection**  
   Identifies accounts with spam patterns (e.g., "star for star", "follow for follow") or suspicious follower/following ratios.
 
-- 🚫 **Auto-Block**  
+- **Auto-Block**  
   Blocks detected bot accounts upon your confirmation.
 
-- 🔕 **Follower Management**  
+- **Follower Management**  
   Identifies users who don't follow you back and allows you to unfollow them.
 
-- ⭐ **Bulk Starring**  
+- **Bulk Starring**  
   Quickly star all your own repositories.
 
-- 📋 **Secure Report Mode**  
+- **Secure Report Mode**  
   Analyzes your account and generates a report without making any changes.
 
-- 🧪 **Dry-Run Support**  
+- **Dry-Run Support**  
   Preview actions before executing them to ensure accuracy.
 
 ---
